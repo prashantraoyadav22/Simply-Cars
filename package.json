@@ -1,0 +1,13 @@
+
+{
+  "name": "simplycars-gh-pages",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build step needed\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
